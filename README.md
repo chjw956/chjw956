@@ -38,3 +38,7 @@ print("hello world!")
 ## 3일차
 `touch README.md`
 `touch .gitignore`
+
+```
+📢 Start Camp 종료!
+```
