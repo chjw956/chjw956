@@ -1,4 +1,4 @@
-<img src="https://lh3.google.com/u/0/d/1YxAvtpTSbwG-Gw0wQ0OmMsHBkw5xK5az=w1438-h1312-iv1">
+<img src="https://lh3.google.com/u/0/d/1YxAvtpTSbwG-Gw0wQ0OmMsHBkw5xK5az=w1438-h1312-iv1" alert="이미지">
 
 <h2 align="center"> 안녕하세요. 👋
 
