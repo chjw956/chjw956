@@ -1,8 +1,8 @@
-<img src="https://lh3.google.com/u/0/d/1YxAvtpTSbwG-Gw0wQ0OmMsHBkw5xK5az=w1438-h1312-iv1" alert="이미지">
+<p align="center"><img src="https://lh3.google.com/u/0/d/1YxAvtpTSbwG-Gw0wQ0OmMsHBkw5xK5az=w1438-h1312-iv1" alert="이미지"></p>
 
-<h2 align="center"> 안녕하세요. 👋
+<h2 align="center"> 안녕하세요 👋
 
-백엔드 개발자 지망생 최지원입니다.👩‍💻</h2>
+백엔드 개발자 지망생 최지원입니다 👩‍💻</h2>
 
 
 
