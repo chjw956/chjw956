@@ -35,7 +35,7 @@ print("hello world!")
 ![이미지](https://i.pinimg.com/736x/53/7e/f5/537ef59499259ba707068742f91a10f8.jpg)
 
 ### Git
-## 3일차
+## 3일차 
 `touch README.md`
 `touch .gitignore`
 
