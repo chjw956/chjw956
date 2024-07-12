@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/ck3S/image/6wW3rm9SeiAdNC4iXCnEPkhEc4A.PNG"></p>
+<p align="center"><img title="" src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/ck3S/image/6wW3rm9SeiAdNC4iXCnEPkhEc4A.PNG" alt="" width="217"></p>
 
 <h2 align="center"> 안녕하세요 👋
 
