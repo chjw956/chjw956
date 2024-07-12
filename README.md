@@ -1,4 +1,4 @@
-<div style="text-align:center">[제목 없음.png - Google Drive](https://drive.google.com/file/d/1YxAvtpTSbwG-Gw0wQ0OmMsHBkw5xK5az/view?usp=sharing)</div>
+<div style="text-align:center"><img src="https://lh3.google.com/u/0/d/1YxAvtpTSbwG-Gw0wQ0OmMsHBkw5xK5az=w1438-h1312-iv1"></div>
 
 <h2 align="center"> 안녕하세요. 👋
 
