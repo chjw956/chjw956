@@ -1,6 +1,7 @@
-<p align="center"><img title="" src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/ck3S/image/6wW3rm9SeiAdNC4iXCnEPkhEc4A.PNG" alt="" width="217"></p>
+<div align="center">
+<img title="" src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/ck3S/image/6wW3rm9SeiAdNC4iXCnEPkhEc4A.PNG" alt="" width="217">
 
-<h4 align="center"> 안녕하세요 👋
+<h4> 안녕하세요 👋
 
 백엔드 개발자 지망생 최지원입니다 👩‍💻</h4>
 
@@ -17,8 +18,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjw956&layout=compact)
 
-### 
 
 ### ⚒ (희망) Backend Stack✨
 
-<img title="" src="https://img.shields.io/badge/Python-#02458D?style=flat-square&logo=Python&logoColor=white" alt="">
+<img alt="Python" src="https://img.shields.io/badge/Python-02458D.svg?style=flat-square&logo=Python&logoColor=white"/>
+
+</div>
