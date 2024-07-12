@@ -40,5 +40,5 @@ print("hello world!")
 `touch .gitignore`
 
 ```
-📢 Start Camp 종료!
+📢 Start Camp 종료! 
 ```
