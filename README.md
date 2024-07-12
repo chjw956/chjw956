@@ -1,7 +1,27 @@
-![](https://github.com/images/mona-whisper.gif)
+<img src="https://github.com/images/mona-whisper.gif" title="" alt="" data-align="center">
 
-## 안녕하세요. 백엔드 개발자 지망생 최지원입니다 🚀
 
----
 
-### 기술 스택
+<h2 align="center"> 안녕하세요. 👋</h2>
+
+<h2 align="center">백엔드 개발자 지망생 최지원입니다.👩‍💻</h2>
+
+***
+
+ "배는 항구에 있을 때 가장 안전하지만, 그것이 배가 존재하는 이유는 아니다."
+
+
+
+```
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=chjw956&theme=vue&show_icons=true"/></a>
+</p>
+```
+
+```null
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjw956&layout=compact)
+```
+
+
+
+### ⚒ (희망) 기술 스택
