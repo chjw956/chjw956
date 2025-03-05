@@ -20,5 +20,6 @@
 ### ⚒ (희망) Backend Stack✨
 
 <img alt="Python" src="https://img.shields.io/badge/Python-02458D.svg?style=flat-square&logo=Python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Python-02458D.svg?style=flat-square&logo=Java&logoColor=white"/>
 
 </div>
