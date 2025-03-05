@@ -1,5 +1,5 @@
 <div align="center">
-<img title="" src="![Image](https://github.com/user-attachments/assets/cecb162a-0ea3-49d4-a9c6-a3c06b718d9c)" alt="" width="217">
+![Image](https://github.com/user-attachments/assets/cecb162a-0ea3-49d4-a9c6-a3c06b718d9c)
 
 <h3> 안녕하세요 👋
 
