@@ -17,9 +17,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjw956&layout=compact)
 
 
-### ⚒ (희망) Backend Stack✨
+### ⚒ Backend Stack✨
 
 <img alt="Python" src="https://img.shields.io/badge/Python-02458D.svg?style=flat-square&logo=Python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-02458D.svg?style=flat-square&logo=Java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="spring security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
+<img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 
 </div>
