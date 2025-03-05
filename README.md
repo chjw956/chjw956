@@ -6,7 +6,7 @@
 백엔드 개발자 지망생 최지원입니다 👩‍💻</h3>
 
 <pre>
-    ⛵"배는 항구에 있을 때 가장 안전하지만, 그것이 배가 존재하는 이유는 아니다."⚓
+    ⛵<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=East+Sea+Dokdo&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%EB%B0%B0%EB%8A%94+%ED%95%AD%EA%B5%AC%EC%97%90+%EC%9E%88%EC%9D%84+%EB%95%8C+%EA%B0%80%EC%9E%A5+%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80%EB%A7%8C%2C+%EA%B7%B8%EA%B2%83%EC%9D%B4+%EB%B0%B0%EA%B0%80+%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94+%EC%9D%B4%EC%9C%A0%EB%8A%94+%EC%95%84%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>⚓
     배움의 즐거움을 삶의 가장 큰 원동력으로 생각합니다.
 </pre>
 
