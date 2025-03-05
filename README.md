@@ -1,5 +1,5 @@
 <div align="center">
-<img title="" src="https://static.wikia.nocookie.net/pokemon/images/e/e7/%EB%85%B8%EB%B6%80%EB%82%98%EA%B0%80%EC%9D%98_%EC%95%BC%EB%A7%9D%EC%97%90%EC%84%9C%EC%9D%98_%EB%A8%B9%EA%B3%A0%EC%9E%90.png/revision/latest?cb=20130725130315&path-prefix=ko" alt="" width="217">
+<img title="" src="![Image](https://github.com/user-attachments/assets/cecb162a-0ea3-49d4-a9c6-a3c06b718d9c)" alt="" width="217">
 
 <h3> 안녕하세요 👋
 
